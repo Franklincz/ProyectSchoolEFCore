@@ -1,0 +1,14 @@
+D:\Proyects_VS\proyectSchool\blSchool\bin\Debug\net6.0\blSchool.deps.json
+D:\Proyects_VS\proyectSchool\blSchool\bin\Debug\net6.0\blSchool.runtimeconfig.json
+D:\Proyects_VS\proyectSchool\blSchool\bin\Debug\net6.0\blSchool.dll
+D:\Proyects_VS\proyectSchool\blSchool\bin\Debug\net6.0\blSchool.pdb
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.csproj.AssemblyReference.cache
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.AssemblyInfoInputs.cache
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.AssemblyInfo.cs
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.csproj.CoreCompileInputs.cache
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.dll
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\refint\blSchool.dll
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.pdb
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\blSchool.genruntimeconfig.cache
+D:\Proyects_VS\proyectSchool\blSchool\obj\Debug\net6.0\ref\blSchool.dll
